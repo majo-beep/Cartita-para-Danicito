@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Para Daniel 💗</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+      background: #fdf6f0;
+      scroll-behavior: smooth;
+    }
+
+    /* PORTADA */
+    .portada {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .portada h1 {
+      font-size: 2.2em;
+      margin-bottom: 10px;
+    }
+
+    .portada p {
+      font-size: 1em;
+      color: #555;
+    }
+
+    .portada img {
+      width: 220px;
+      margin-top: 25px;
+      cursor: pointer;
+      transition: transform 0.3s;
+    }
+
+    .portada img:hover {
+      transform: scale(1.05);
+    }
+
+    /* CARTA */
+    .carta {
+      max-width: 800px;
+      margin: 60px auto;
+      background: white;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+      line-height: 1.8;
+    }
+
+    .carta h2 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- PORTADA -->
+  <section class="portada">
+    <h1>Para Daniel 💗</h1>
+    <p>31 de diciembre de 2025</p>
+
+    <a href="#carta">
+      <img src="https://i.imgur.com/0Z8FQYh.png" alt="Haz click">
+    </a>
+
+    <p>(toca la imagen)</p>
+  </section>
+
+  <!-- CARTA -->
+  <section id="carta" class="carta">
+    <h2>Wáchala</h2>
+
+    <p>
+      Esta carta la leerás un 31 de diciembre del año 2025, ese año en el que tuve la fortuna de volver a encontrarme contigo, pero esta vez de una manera distinta. Hablando con Emma, me dijo que nunca fuiste grosero con ellos, entonces es muy probable que únicamente yo no te cayera chido en primer cuatri KAJSJSKSJ.
+    </p>
+
+    <p>
+      En fin, en este año pude conocer a un Daniel distinto: a alguien que fue un compañero de equipo y de clase, que se convirtió en un amigo y posteriormente se hizo mi novio 💗
+    </p>
+
+    <p>
+      El inicio de este año fue algo complicado. No puedo decir que lo amé al 100%; sin embargo, así como me arrastró por el suelo y me hizo experimentar sensaciones frustrantes y sofocantes, también me hizo sentir ese grado de pertenencia a algo, a ese equipo en el que uno se dedicaba a hacer <i>words</i>, otro hacía los diagramas en Proteus y, por último, otro armaba los circuitos 💗
+    </p>
+
+    <p>
+      Pero, fuera de eso, me hizo darme cuenta de una persona especial, y esa persona eres tú.
+    </p>
+
+    <p>
+      Desde el día en que puse mi teléfono en tus manos para que le activaras los gestos fue porque elegí dejar que entraras en mi vida. Es raro que un cuernito haya hecho que tu presencia no me fuera incómoda; creo que eso me motivó a darte el teléfono, a preguntar y a empezar a relacionarme… un bendito cuernito de jamón de 50 pesos.
+    </p>
+
+    <p>
+      Sabes… no sé en qué momento empecé a escucharte hablar, pero ahora sé que no quiero dejar de hacerlo. Este año me permitió conocerte desde lo más remoto hasta aquello que es parte de ti; me permitió ver un poco de lo que eres gracias a aquellos que formaron parte de tu historia.
+    </p>
+
+    <p>
+      Siempre te he dicho que es bueno vivir experiencias que te hacen ser quien eres, elegir lo que quieres y alejar aquello que no. Sé que, en tu caso, es algo complejo, porque realmente experimentaste muchas cosas, llegando a un grado extremo. Y aun así, es increíble verte ahora siendo quien eres.
+    </p>
+
+    <p>
+      Como tu amiga, era bonito tenerte y conocerte; ahora, como tu novia, es un orgullo darme cuenta de lo afortunada que soy.
+    </p>
+
+    <p>
+      Me encanta que mi novio sea alguien que acepta cuando se equivoca, que sea alguien decidido, que luche por lo que quiere. Me llena de felicidad verte triunfar. No soy buena hablando de eso; sin embargo, si hubieras visto mi cara cuando me mostraste tu set gamer, tu carro, los papeles de tu licencia… ay, Dios. Me hace sentirme extremadamente orgullosa. Realmente eres alguien a quien admiro 💗
+    </p>
+
+    <p>
+      ¿Recuerdas esos dos seres a los que les tenía agradecimientos infinitos?
+    </p>
+
+    <p>
+      Bueno… uno es tu periquito y el otro es esa persona que se ganó el apodo de “Pa”.
+    </p>
+
+    <p>
+      Hay personas y seres que llegan a nuestra vida para dejar algo, incluso si no permanecen en ella para siempre. Aunque nunca los conocí, quiero agradecerles, porque gracias a ellos estás aquí, siendo tú, y yo tengo la gran fortuna de amarte así. Les agradezco la manera tan diversa y bonita en la que te enseñaron a amar y a proteger aquello que importa 💗
+    </p>
+
+    <p>
+      Gracias por ser el niño que aprecia a sus amigos, que les da cuando no tienen. Gracias por estar para mí; gracias por darme tu tiempo, tu día de descanso, tus horas de sueño, tus suéteres y tus abrazos. Gracias por ser mi amigo; gracias por escucharme y aconsejarme; gracias por querer entenderme, aunque eso quizá esté fuera de tu manera de ser.
+    </p>
+
+    <p>
+      Gracias por mostrarme a ese niño sensible y tan rudo a la vez 💗
+    </p>
+
+  </section>
+
+</body>
+</html>
